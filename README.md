@@ -18,12 +18,14 @@ A dynamic networking and digital profile management application that allows user
 *   🚀 **Status:** Live on Stores | **Metrics:**  ~8,000+ Downloads
 *   🌐 [Google Play Store](https://play.google.com/store/apps/details?id=com.meonow.meo) | 🍏 [App Store](https://apps.apple.com/tr/app/meo/id6742192317)
 <p align="center">
-<img width="160"  alt="Meo1" src="https://github.com/user-attachments/assets/a96a7699-2c60-4001-8dc7-763905632873" />
-<img width="160"  alt="Meo2" src="https://github.com/user-attachments/assets/5ccf9190-d70a-4234-a023-3635cd1deda0" />
-<img width="160"  alt="Meo3" src="https://github.com/user-attachments/assets/5543f7f0-c43d-4568-ab3d-f969d9af0081" />
-<img width="160"  alt="Meo4" src="https://github.com/user-attachments/assets/e0c379ff-7976-49f3-869c-89e88d917fdd" />
-<img width="160"  alt="Meo5" src="https://github.com/user-attachments/assets/7a2f44eb-665d-473f-9e21-eda330ac6ef8" />
-<img width="160" alt="Meo6" src="https://github.com/user-attachments/assets/86c935b8-ad85-488e-82e7-566ba2ddbe00" />
+<img width="260"  alt="Meo1" src="https://github.com/user-attachments/assets/a96a7699-2c60-4001-8dc7-763905632873" />
+<img width="260"  alt="Meo2" src="https://github.com/user-attachments/assets/5ccf9190-d70a-4234-a023-3635cd1deda0" />
+<img width="260"  alt="Meo3" src="https://github.com/user-attachments/assets/5543f7f0-c43d-4568-ab3d-f969d9af0081" />
+</p>
+<p align="center">
+<img width="260"  alt="Meo4" src="https://github.com/user-attachments/assets/e0c379ff-7976-49f3-869c-89e88d917fdd" />
+<img width="260"  alt="Meo5" src="https://github.com/user-attachments/assets/7a2f44eb-665d-473f-9e21-eda330ac6ef8" />
+<img width="260" alt="Meo6" src="https://github.com/user-attachments/assets/86c935b8-ad85-488e-82e7-566ba2ddbe00" />
 </p>
 
 ### Highlights
@@ -37,12 +39,14 @@ A dynamic networking and digital profile management application that allows user
 *   🚀 **Status:** Live on Stores
 *   🌐 [Google Play Store](https://play.google.com/store/apps/details?id=com.qrwash.qrwashapp) | 🍏 [App Store](https://apps.apple.com/tr/app/qrwash/id6762153880)
 <p align="center">
-<img width="160" alt="Qr1" src="https://github.com/user-attachments/assets/a20c618e-c7e4-4ee9-b906-4897d9722904" />
-<img width="160" alt="Qr2" src="https://github.com/user-attachments/assets/05536316-6c50-4214-900a-4a78dfaf87c1" />
-<img width="160" alt="Qr3" src="https://github.com/user-attachments/assets/c550ff50-ee3a-4a94-9d89-fc0f7f8257a7" />
-<img width="160" alt="Qr4" src="https://github.com/user-attachments/assets/2286bcb0-83e0-4fae-857c-576e83e716b2" />
-<img width="160" alt="Qr5" src="https://github.com/user-attachments/assets/33884504-9e3d-4d7c-9efc-06435aebc763" />
-<img width="160" alt="Qr6" src="https://github.com/user-attachments/assets/49049c40-a242-4f40-8b24-1d8a17408356" />
+<img width="260" alt="Qr1" src="https://github.com/user-attachments/assets/a20c618e-c7e4-4ee9-b906-4897d9722904" />
+<img width="260" alt="Qr2" src="https://github.com/user-attachments/assets/05536316-6c50-4214-900a-4a78dfaf87c1" />
+<img width="260" alt="Qr3" src="https://github.com/user-attachments/assets/c550ff50-ee3a-4a94-9d89-fc0f7f8257a7" />
+</p>
+<p align="center">
+<img width="260" alt="Qr4" src="https://github.com/user-attachments/assets/2286bcb0-83e0-4fae-857c-576e83e716b2" />
+<img width="260" alt="Qr5" src="https://github.com/user-attachments/assets/33884504-9e3d-4d7c-9efc-06435aebc763" />
+<img width="260" alt="Qr6" src="https://github.com/user-attachments/assets/49049c40-a242-4f40-8b24-1d8a17408356" />
 </p>
 
 ### Highlights
