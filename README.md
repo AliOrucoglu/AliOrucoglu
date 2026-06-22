@@ -1,6 +1,6 @@
-## Hi there, I'm Name! 👋
+## Hi there, I'm Ali Orucoglu! 👋
 ### Flutter Developer (2+ Years of Experience)
-Flutter Developer focused on building high-quality mobile applications for Android and iOS. Experienced in publishing apps to the App Store and Google Play, integrating RESTful APIs, and turning UI/UX designs into responsive and user-friendly applications. Explore the projects below to see the technologies, features, and live applications I have worked on.
+Flutter Developer focused on building high-quality mobile applications for Android and iOS. Experienced in publishing apps to the App Store and Google Play, integrating RESTful APIs and turning UI/UX designs into responsive and user-friendly applications. Explore the projects below to see the technologies, features and live applications I have worked on.
 
 # 🛠️ Skills & Tech Stack
 
@@ -71,5 +71,4 @@ A mobile POS application for the business side of the project, generating QR-cod
 
 # 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/LINKEDIN_KULLANICI_ADIN](https://linkedin.com/in/LINKEDIN_KULLANICI_ADIN)
-- 📧 **Email:** [EPOSTA_ADRESIN@domain.com](mailto:EPOSTA_ADRESIN@domain.com)
+- 📧 **Email:** [aliorucoglu.1607@gmail.com](mailto:aliorucoglu.1607@gmail.com)
